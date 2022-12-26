@@ -4,6 +4,9 @@
 
 In this game, I create a turtle crossing game where the turtle is not allowed to hit the cars as it attempts to reach the end of the road. Once it reaches the end of the road, the turtle would then progress on to the next level where cars now move at faster speeds that make it harder for the turtle to reach the end of the road. In the event that the turtle collides with any of the cars, it would be game over. 
 
+https://user-images.githubusercontent.com/63066897/209575643-1c074547-17ca-48ea-984b-d34df9576ab7.mov
+
+
 ## The folders are:
 - myCode
 - solutionCode
