@@ -11,4 +11,4 @@ is the provided pdf by the course instructor DR Angela Yu on what is the expecte
 
 
 myCode folder contains the code I used to form my own version of the coffee machine program. <br/>
-mySol folder contains the code I used to form my own version of the coffee machine program.
+providedSol folder contains the code I used to form my own version of the coffee machine program.
