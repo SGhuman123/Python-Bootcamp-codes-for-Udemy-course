@@ -1,6 +1,7 @@
 # Description of Coffee Maker (non-OOP)
 <br />
 <br />
+
 These here are the codes for how the coffee maker works
 <br />
 
