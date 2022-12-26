@@ -35,3 +35,9 @@ For both the scoreboard.py files. This file contains the Scoreboard(Turtle) clas
 - updated_scoreboard(self). This method is responsible for updating the scoreboard to show the most updated score.
 - l_point(self). This method is responsible for assigning the point to the left player in the event that the left player scores.
 - r_point(self). This method is responsible for assigning the point to the right player in the event that the right player scores.
+
+
+Video of the program:
+
+https://user-images.githubusercontent.com/63066897/209573726-d85f3123-32f1-458c-aefd-afe1156975c4.mov
+
