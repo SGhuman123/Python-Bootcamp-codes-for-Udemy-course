@@ -1,5 +1,12 @@
 # Description of Snake Game
 
+Rules of the game are simple:
+- Don't collide with the wall
+- Don't eat your own tail, eat the food instead
+
+https://user-images.githubusercontent.com/63066897/209571166-789df678-ec4d-4e24-857d-7d3e151582e0.mov
+
+## Folder contents:
 
 In this folder it has my original code in the myCode folder and the solution code in the providedSol folder.
 </br>
@@ -8,6 +15,8 @@ Within both folders there contain the following files:
 - food.py
 - scoreboard.py
 - snake.py
+
+## File description:
 
 In main.py here is where the code is run such that the game can function. It is the file that links to all other files.
 
@@ -24,6 +33,3 @@ In snake.py this is the file that is responsible for creating the borders though
 - right(self). This method is responsible for ensuring that the snake is travelling in an rightwards direction if it is already not. This method is activated by hitting the right key on the keyboard.
 - left(self). This method is responsible for ensuring that the snake is travelling in an leftwards direction if it is already not. This method is activated by hitting the left key on the keyboard.
 
-Here is a short-clip how my code works:
-
-https://user-images.githubusercontent.com/63066897/209571166-789df678-ec4d-4e24-857d-7d3e151582e0.mov
