@@ -25,6 +25,8 @@ Both these folder contains files of the same name as well as same functionality.
 - scoreboard.py
 - car_manager.py
 
+## Files descriptions:
+
 <ins>main.py</ins> is where the code is run such that the entire program can run.
 
 <ins>player.py</ins> is where the class Player(Turtle) resides and it inherits some properties from the Turtle module. Furthermore, it contains various methods such as:
