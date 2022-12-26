@@ -13,6 +13,3 @@ coffeeMachine.py file is my own code to the coding project
 
 solutionCode.py file is the provided solution to the coding project by Dr Angela Yu.
 <br />
-
-How the program works is as follows:
-- 
