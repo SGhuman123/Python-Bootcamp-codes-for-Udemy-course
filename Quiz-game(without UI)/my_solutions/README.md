@@ -23,7 +23,7 @@ This file contains class Question which allows the questions and theor data to b
 </br>
 quiz_brain.py
 </br>
-This file contains the class QuizBrain that consist of 3 methods. There are:
+This file contains the class QuizBrain that consist of 4 methods. There are:
 - still_has_questions(self) method that checks if there are still any unanswered questions.
 - next_question(self) method that brings in the next question after the current question has been answered
 - check_answer(self, user_answer, correct_answer) method that verifies if the user's inputed answer is correct or not.
