@@ -20,6 +20,5 @@ sol_turtle_race_final.py
 This is the file for the code solution to the turtle racing game.
 
 
-https://user-images.githubusercontent.com/63066897/209569530-b71b18db-08cd-41c5-8714-62c993e16f92.mov
 
 
