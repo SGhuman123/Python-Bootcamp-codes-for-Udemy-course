@@ -19,10 +19,10 @@ In snake.py this is the file that is responsible for creating the borders though
 - create_snake(self). This method is responsible for creating the initial starting snake body when the game just begins
 - add_segment(self)
 - extend(self). This method is responsible for extending the snake body everytime it eats a food.
-- up(self). This method is responsible for ensuring that the snake is travelling in an upwards direction if it is already not.
-- down(self). This method is responsible for ensuring that the snake is travelling in an downawards direction if it is already not.
-- right(self). This method is responsible for ensuring that the snake is travelling in an rightwards direction if it is already not.
-- left(self). This method is responsible for ensuring that the snake is travelling in an leftwards direction if it is already not.
+- up(self). This method is responsible for ensuring that the snake is travelling in an upwards direction if it is already not. This method is activated by hitting the up key on the keyboard.
+- down(self). This method is responsible for ensuring that the snake is travelling in an downawards direction if it is already not. This method is activated by hitting the down key on the keyboard.
+- right(self). This method is responsible for ensuring that the snake is travelling in an rightwards direction if it is already not. This method is activated by hitting the right key on the keyboard.
+- left(self). This method is responsible for ensuring that the snake is travelling in an leftwards direction if it is already not. This method is activated by hitting the left key on the keyboard.
 
 Here is a short-clip how my code works:
 
