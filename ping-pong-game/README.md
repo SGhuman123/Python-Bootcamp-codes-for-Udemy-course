@@ -1,6 +1,14 @@
 # Description
 
-These here are the codes for my ping pong game.
+## Rules:
+- Don't let the ball go pass your pad.
+- For left player "w" moves the pad up and "s" key moves the pad down.
+- For right player up key moves the pad up and down key moves the pad down.
+
+https://user-images.githubusercontent.com/63066897/209573726-d85f3123-32f1-458c-aefd-afe1156975c4.mov
+
+
+## Folder contents
 
 In myCode folder it contains my own personal code for the ping-pong game.
 </br>
@@ -17,6 +25,8 @@ solutionCode folder consist of the following files:
 - main.py
 - paddle.py
 - scoreboard.py
+
+## Files Description:
 
 For both main.py is the file that is run such that the ping pong game gets activated. This is the file that is responsible for the initial user-interface of what is seen on the screen. 
 
@@ -36,8 +46,4 @@ For both the scoreboard.py files. This file contains the Scoreboard(Turtle) clas
 - l_point(self). This method is responsible for assigning the point to the left player in the event that the left player scores.
 - r_point(self). This method is responsible for assigning the point to the right player in the event that the right player scores.
 
-
-Video of the program:
-
-https://user-images.githubusercontent.com/63066897/209573726-d85f3123-32f1-458c-aefd-afe1156975c4.mov
 
