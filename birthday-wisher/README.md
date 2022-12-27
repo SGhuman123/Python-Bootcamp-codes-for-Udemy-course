@@ -9,5 +9,9 @@ The main.py file uses several modules that consist of the following:
 - random module to choose a different birthday template
 - smtplib to help send the email to the desired users.
 
+## Folder content:
+
+- myCode folder consist of my original code.
+- providedCode folder consist of the code provided by the course instructor Dr Angela Yu.
 
 
