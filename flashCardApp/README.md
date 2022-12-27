@@ -1,6 +1,13 @@
 # Description
 
+https://user-images.githubusercontent.com/63066897/209700430-27efd4a1-1cae-4ab4-96b1-f7fd080e2457.mov
+
+
 This flashcard app serves as a tool to help someone learn French.
+
+## How it works:
+1) If a user presses the green button then it suggest that the user knows the word and the program shall proceed to the next French word.
+2) If the user clicks the red button or gives no response after 3 seconds time interval then the program shall take that the user does not know the word and it shall be saves in the csv file known as words_to_learn.csv
 
 ## Folder descriptions:
 
