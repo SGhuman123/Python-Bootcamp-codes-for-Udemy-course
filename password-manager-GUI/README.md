@@ -1,5 +1,8 @@
 # Description of password-manager-GUI
 
+<img width="557" alt="Screenshot 2022-12-28 at 12 47 19 AM" src="https://user-images.githubusercontent.com/63066897/209696634-97ed25e1-1773-4b3d-b76d-faca9103cea3.png">
+
+
 This application serves a function which is to record the password, email and username each time the user inputs their data. 
 
 ## Folder contents
