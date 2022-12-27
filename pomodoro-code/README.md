@@ -1,5 +1,7 @@
 # Description
 
+https://user-images.githubusercontent.com/63066897/209694066-08598486-7d61-40c8-98d3-1fbd423cf944.mov
+
 This codes here are used to show how the pomodoro clock GUI application works. This is to boost workflow efficiency. Through the following methods. 
 
 1) User decide on task to be done
@@ -7,7 +9,7 @@ This codes here are used to show how the pomodoro clock GUI application works. T
 3) Work on the task until the timer rings
 4) Take a short 5min break
 5) Read steps 1 to 3 another 3 times
-6) Take a short 15-30min break.
+6) Take a short 20min break.
 
 ## Folder content:
 
