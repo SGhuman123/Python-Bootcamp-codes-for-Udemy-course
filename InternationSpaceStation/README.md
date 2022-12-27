@@ -9,3 +9,7 @@ https://api.sunrise-sunset.org/json
 
 - main_for_github.py is to my personal code for this challenge to determine the distance of the ISS from my current location.
 - main 2.py is the provided solution by the course instructor, Dr Angela Yu.
+
+
+## Sidenotes:
+- For both main_for_github.py and main 2.py you may want to adjust the lattitude and longitude values to suit your current location instead of what is shown in the code.
