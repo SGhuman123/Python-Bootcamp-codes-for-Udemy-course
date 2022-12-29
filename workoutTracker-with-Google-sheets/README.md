@@ -11,6 +11,11 @@ This information is then filled up onto a google sheet with the aid of the Sheet
 
 <img width="559" alt="Screenshot 2022-12-29 at 3 32 09 PM" src="https://user-images.githubusercontent.com/63066897/209918426-f6ecf235-08d4-46fa-bf23-3770107d4eb5.png">
 
+## Files information:
+
+- githubWorkoutTracker.py is my own code.
+- main.py is the code solution provided by the course instructor Dr Angela Yu.
+
 
 Link to Nutritionix API:
 https://www.nutritionix.com/business/api
