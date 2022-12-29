@@ -13,6 +13,10 @@ Moreover, when searching for flights, we are looking only for direct flights, th
 
 Subsequently, if the price found by the API is indeed lower than the one in the Google sheet, then we shall receive a message from the Twilio API to let us know that there is a much cheaper flight deal.
 
+## Modification of program from solution code:
+
+In my program unlike the provided solution code that assumes the user starts from London, my program allows the users to choose their starting location.
+
 
 ## Folder description
 
